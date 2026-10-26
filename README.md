@@ -26,7 +26,7 @@
 
 ### 🖨️ Как собрать набор
 
-1. **Скачай PDF:** [Domonacia-print-and-play.PDF](https://github.com/kibaidar1-glitch/Dominacia/releases/download/v1.0.0/Domonacia-print-and-play.PDF).
+1. **Скачай PDF:** [Dominacia-print-and-play.PDF](https://github.com/kibaidar1-glitch/Dominacia/releases/download/v1.0.0/Dominacia-print-and-play.pdf).
 2. **Распечатай материалы.** Для карт и жетонов рекомендуется плотная бумага или картон.
 3. **Вырежи карты и жетоны** по контурам.
 4. **Собери правила:** сложи листы пополам, совмести страницы в правильном порядке и скрепи их.
